@@ -1,2 +1,2 @@
 # stevehopkinson.github.io
-Repository for publishing to GitHub Pages.
+Repository for publishing using GitHub Pages.
